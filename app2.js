@@ -18,7 +18,7 @@
             <h3>소개<span class="line"></span></h3>
         </div>
 
-        function 기능 추가해야할까?
+        function 기능 추가
 
-        아니면 원복할까?
+
 </body>
